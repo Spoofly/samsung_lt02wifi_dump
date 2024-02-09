@@ -1,0 +1,14 @@
+# lt02wifiue-user 4.4.2 KOT49H T210RUES0CQA1 release-keys
+- manufacturer: samsung
+- platform: mrvl
+- codename: lt02wifi
+- flavor: user
+- release: 4.4.2
+- id: KOT49H
+- incremental: T210RUES0CQA1
+- tags: release-keys
+- fingerprint: samsung/lt02wifiue/lt02wifi:4.4.2/KOT49H/T210RUES0CQA1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: lt02wifiue-user-4.4.2-KOT49H-T210RUES0CQA1-release-keys
+- repo: samsung_lt02wifi_dump
